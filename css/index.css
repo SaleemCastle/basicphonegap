@@ -1,0 +1,9 @@
+.banner{
+    width: 100%;
+}
+.map{
+    padding-bottom:56.25%; 
+    position:relative; 
+    display:block; 
+    width: 100%
+}
